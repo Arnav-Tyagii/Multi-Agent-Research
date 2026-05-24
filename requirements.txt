@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+google-generativeai
+tavily-python
+langchain-tavily
+wikipedia-api
+chromadb
+langsmith
+python-dotenv
